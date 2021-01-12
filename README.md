@@ -25,9 +25,3 @@ To graph a function, simply call the graph function with the desired moment ID (
 
 <br />
 This graph provides an insight into a moment that has absolutely skyrocketed in value, setting the Top Shot sale record at $26,543.
-
-
-
-## Sorare
-
-Coming soon!
