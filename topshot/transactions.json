@@ -1,0 +1,2723 @@
+{
+  "data": {
+    "searchMarketplaceTransactions": {
+      "data": {
+        "searchSummary": {
+          "pagination": {
+            "rightCursor": "CiYKJDJhY2VmOWIzLTBhNmEtNDdiYi1hZGZlLTM5MDdkNmJlNzk4MRACGhAKDAiew+3/BRCQiPOTAhAC",
+            "__typename": "Pagination"
+          },
+          "data": {
+            "size": 50,
+            "data": [
+              {
+                "id": "42c460b7-465c-4b15-80bb-5e720644b8bd",
+                "sortID": "01_01610310983175790000_42c460b7-465c-4b15-80bb-5e720644b8bd",
+                "seller": {
+                  "dapperID": "auth0|5f2d4c0fe2027000380436b1",
+                  "flowAddress": "9ca797a7a105d861",
+                  "username": "common_tiger4182",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5ed781e043eb020bec781252",
+                  "flowAddress": "1777cbb068b816f5",
+                  "username": "StayMe7o",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-knicks.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "7.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/118f2aa1-1aeb-4e57-90d0-9d55058abdff/play_118f2aa1-1aeb-4e57-90d0-9d55058abdff_1_base_set_common_capture_",
+                  "flowSerialNumber": "2349",
+                  "id": "78cfca24-8ce4-43d8-a75a-72bdf7e5bf97",
+                  "play": {
+                    "id": "118f2aa1-1aeb-4e57-90d0-9d55058abdff",
+                    "stats": {
+                      "playerName": "Devin Booker",
+                      "dateOfMoment": "2020-08-04T20:00:00Z",
+                      "playCategory": "Jump Shot",
+                      "teamAtMomentNbaId": "1610612756",
+                      "teamAtMoment": "Phoenix Suns",
+                      "jerseyNumber": "1",
+                      "__typename": "PlayStats"
+                    }, 
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "6e3e502d-aff6-41ff-b38d-f4701a1f110f",
+                    "circulationCount": 2481,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "3062060fcb94957fb6056d05b69819a258f5c5a6379490ebabfc96f681a2d6f5",
+                "updatedAt": "2021-01-10T20:36:23Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "9b081c5e-ff91-4aef-be8b-82308b9a5370",
+                "sortID": "01_01610310927762177000_9b081c5e-ff91-4aef-be8b-82308b9a5370",
+                "seller": {
+                  "dapperID": "auth0|5ee7d2b32ee72f0013d90e61",
+                  "flowAddress": "9cf0e3443ebc8bf9",
+                  "username": "BUCKNASTY",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5fc5496be2e04d006e9a050b",
+                  "flowAddress": "2af5deea2d81ed0d",
+                  "username": "pistolpete69",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "65.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_metallic_gold_le_rare/ea889ef6-0d9f-4c04-bbc6-0d46bdbd8cb5/play_ea889ef6-0d9f-4c04-bbc6-0d46bdbd8cb5_1_metallic_gold_le_rare_capture_",
+                  "flowSerialNumber": "106",
+                  "id": "1f233b92-cb16-4f81-a954-88241ecf6f35",
+                  "play": {
+                    "id": "ea889ef6-0d9f-4c04-bbc6-0d46bdbd8cb5",
+                    "stats": {
+                      "playerName": "Brandon Ingram",
+                      "dateOfMoment": "2019-10-29T00:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612740",
+                      "teamAtMoment": "New Orleans Pelicans",
+                      "jerseyNumber": "14",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "12a8288a-addc-4e5c-8af7-b3ba6e5161d4",
+                    "flowName": "Metallic Gold LE",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_RARE",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "8ad6ae13-63b7-4442-83da-daf7f8eb9445",
+                    "circulationCount": 299,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "49b1cde6eec85e8b0f5c473697011ff3ebbd9a81fc1fc2e676cf523768683b15",
+                "updatedAt": "2021-01-10T20:35:27Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "796051ca-43a8-4565-b701-ebbe31240bb3",
+                "sortID": "01_01610310909362092000_796051ca-43a8-4565-b701-ebbe31240bb3",
+                "seller": {
+                  "dapperID": "auth0|5f3d56dc5fbe5500388935c9",
+                  "flowAddress": "a921d5cbbccf4eac",
+                  "username": "top_shotta84",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5f6a821b6e8ef1006846c14a",
+                  "flowAddress": "37ee2e0292d3b834",
+                  "username": "BRFTKR",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "40.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/ed7f7aa7-eafa-4a4f-ad65-190127940941/play_ed7f7aa7-eafa-4a4f-ad65-190127940941_1_base_set_common_capture_",
+                  "flowSerialNumber": "178",
+                  "id": "c4923422-ab01-4f9b-8b5e-8e2baea8df8b",
+                  "play": {
+                    "id": "ed7f7aa7-eafa-4a4f-ad65-190127940941",
+                    "stats": {
+                      "playerName": "Zion Williamson",
+                      "dateOfMoment": "2020-08-09T19:00:00Z",
+                      "playCategory": "Handles",
+                      "teamAtMomentNbaId": "1610612740",
+                      "teamAtMoment": "New Orleans Pelicans",
+                      "jerseyNumber": "1",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "0eb53697-f3ca-4402-a067-e085ce7ea6f5",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "cb56715e66f4798e7f26e1a679e56bb4c8063d301d52ac3fa1b7fa6af80556cc",
+                "updatedAt": "2021-01-10T20:35:09Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "0bd1d0fc-29de-44c6-a038-4da9277a207c",
+                "sortID": "01_01610310888506348000_0bd1d0fc-29de-44c6-a038-4da9277a207c",
+                "seller": {
+                  "dapperID": "google-oauth2|109007606333128973291",
+                  "flowAddress": "6fa920bb39ee747b",
+                  "username": "inborn_drever195",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5fdbb1627e3d4900752ab11a",
+                  "flowAddress": "f61b31318cba9397",
+                  "username": "MoonMan",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/118f2aa1-1aeb-4e57-90d0-9d55058abdff/play_118f2aa1-1aeb-4e57-90d0-9d55058abdff_1_base_set_common_capture_",
+                  "flowSerialNumber": "2353",
+                  "id": "4216d90f-387f-4a80-b6e5-770dbfa2faf4",
+                  "play": {
+                    "id": "118f2aa1-1aeb-4e57-90d0-9d55058abdff",
+                    "stats": {
+                      "playerName": "Devin Booker",
+                      "dateOfMoment": "2020-08-04T20:00:00Z",
+                      "playCategory": "Jump Shot",
+                      "teamAtMomentNbaId": "1610612756",
+                      "teamAtMoment": "Phoenix Suns",
+                      "jerseyNumber": "1",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "6e3e502d-aff6-41ff-b38d-f4701a1f110f",
+                    "circulationCount": 2481,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "f0740353c43081c3cb6e3e96a27eaf2046e2720eb8515093f8090f76ae5168f5",
+                "updatedAt": "2021-01-10T20:34:48Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "6169e910-8895-407b-a762-91e42a433199",
+                "sortID": "01_01610310839829948000_6169e910-8895-407b-a762-91e42a433199",
+                "seller": {
+                  "dapperID": "google-oauth2|104779744620644288988",
+                  "flowAddress": "74b4212f53a130a6",
+                  "username": "JT_Luxx",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-trailblazers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5f7a857af34b740078b5aad3",
+                  "flowAddress": "adec982a36221be5",
+                  "username": "List4More2Gthr",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-mavericks.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "5.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/5d14c326-f624-4dcc-8432-bc395eb24b93/play_5d14c326-f624-4dcc-8432-bc395eb24b93_1_base_set_common_capture_",
+                  "flowSerialNumber": "171",
+                  "id": "0cecd2f9-a567-453e-b76b-93c69ffd1665",
+                  "play": {
+                    "id": "5d14c326-f624-4dcc-8432-bc395eb24b93",
+                    "stats": {
+                      "playerName": "Derrick Rose",
+                      "dateOfMoment": "2020-01-25T00:00:00Z",
+                      "playCategory": "Assist",
+                      "teamAtMomentNbaId": "1610612765",
+                      "teamAtMoment": "Detroit Pistons",
+                      "jerseyNumber": "25",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "b9eada98-087c-4a70-bcdc-55dc6a0f10fa",
+                    "circulationCount": 3400,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "e47cdb1e361bcb802ba247310b03cc039ce563f9d7cdcb5241524a98f6b54a9a",
+                "updatedAt": "2021-01-10T20:33:59Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "3a427bc1-0851-46a9-a4e7-bf43dbc5b221",
+                "sortID": "01_01610310792839019000_3a427bc1-0851-46a9-a4e7-bf43dbc5b221",
+                "seller": {
+                  "dapperID": "google-oauth2|109007606333128973291",
+                  "flowAddress": "6fa920bb39ee747b",
+                  "username": "inborn_drever195",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5ece88510fd7220c65de4abf",
+                  "flowAddress": "f12eb5325e834055",
+                  "username": "PapaSmurf",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-bucks.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/118f2aa1-1aeb-4e57-90d0-9d55058abdff/play_118f2aa1-1aeb-4e57-90d0-9d55058abdff_1_base_set_common_capture_",
+                  "flowSerialNumber": "2379",
+                  "id": "64079a40-7f2b-458f-bff1-e2cec439e5dd",
+                  "play": {
+                    "id": "118f2aa1-1aeb-4e57-90d0-9d55058abdff",
+                    "stats": {
+                      "playerName": "Devin Booker",
+                      "dateOfMoment": "2020-08-04T20:00:00Z",
+                      "playCategory": "Jump Shot",
+                      "teamAtMomentNbaId": "1610612756",
+                      "teamAtMoment": "Phoenix Suns",
+                      "jerseyNumber": "1",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "6e3e502d-aff6-41ff-b38d-f4701a1f110f",
+                    "circulationCount": 2481,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "f2e749e95bd48107c348a058944b031be7c5b2fe22438640e881f9e2cf8a1586",
+                "updatedAt": "2021-01-10T20:33:12Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "05bad9b3-959c-4682-988e-87fd53b635ef",
+                "sortID": "01_01610310777624627000_05bad9b3-959c-4682-988e-87fd53b635ef",
+                "seller": {
+                  "dapperID": "auth0|5f04033519815a0019dee9bd",
+                  "flowAddress": "a3a627d47f628e9b",
+                  "username": "kai",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-abstract-4.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|111319037226382626006",
+                  "flowAddress": "8a197c1c8d4dfae3",
+                  "username": "aquilo",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-pacers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/bea7b634-2aa5-4e42-a584-682c47488fcc/play_bea7b634-2aa5-4e42-a584-682c47488fcc_1_base_set_common_capture_",
+                  "flowSerialNumber": "972",
+                  "id": "037e8a95-a687-4785-b24d-bc5520b50b0b",
+                  "play": {
+                    "id": "bea7b634-2aa5-4e42-a584-682c47488fcc",
+                    "stats": {
+                      "playerName": "Pascal Siakam",
+                      "dateOfMoment": "2019-11-11T02:30:00Z",
+                      "playCategory": "Block",
+                      "teamAtMomentNbaId": "1610612761",
+                      "teamAtMoment": "Toronto Raptors",
+                      "jerseyNumber": "43",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "87c81f6e-3477-40b1-89bb-66fac44c0fa5",
+                    "circulationCount": 3821,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "6e1be80ae20995dd93db3117f5148ac09108eca41bdcbbddc1c1e5f2bfcd2582",
+                "updatedAt": "2021-01-10T20:32:57Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "9bf2579d-3673-43ed-92a5-b329679842c9",
+                "sortID": "01_01610310774469035000_9bf2579d-3673-43ed-92a5-b329679842c9",
+                "seller": {
+                  "dapperID": "google-oauth2|109007606333128973291",
+                  "flowAddress": "6fa920bb39ee747b",
+                  "username": "inborn_drever195",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5f03a19d0178240015d7ddfb",
+                  "flowAddress": "e063ad3b9ac8fa30",
+                  "username": "Esko",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/43da501e-a739-4063-a471-18945a03d224/play_43da501e-a739-4063-a471-18945a03d224_1_base_set_common_capture_",
+                  "flowSerialNumber": "1153",
+                  "id": "891132d8-e10e-427a-88ef-0a4788d55c18",
+                  "play": {
+                    "id": "43da501e-a739-4063-a471-18945a03d224",
+                    "stats": {
+                      "playerName": "Coby White",
+                      "dateOfMoment": "2019-11-16T23:00:00Z",
+                      "playCategory": "Steal",
+                      "teamAtMomentNbaId": "1610612741",
+                      "teamAtMoment": "Chicago Bulls",
+                      "jerseyNumber": "0",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "ec8c6233-38a7-4ada-8fcd-ec06fe07c133",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "9b88a3c66fab42841d1d5c3ca9c7738b5838d7d86748b07ef5f3fab22c6cb086",
+                "updatedAt": "2021-01-10T20:32:54Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "ca831d3b-470e-4696-8460-9263434dad49",
+                "sortID": "01_01610310748916021000_ca831d3b-470e-4696-8460-9263434dad49",
+                "seller": {
+                  "dapperID": "google-oauth2|109007606333128973291",
+                  "flowAddress": "6fa920bb39ee747b",
+                  "username": "inborn_drever195",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|111319037226382626006",
+                  "flowAddress": "8a197c1c8d4dfae3",
+                  "username": "aquilo",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-pacers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/c237d017-8715-4673-8441-2c94394574e9/play_c237d017-8715-4673-8441-2c94394574e9_1_base_set_common_capture_",
+                  "flowSerialNumber": "1287",
+                  "id": "25f35502-cc85-4365-b2bc-c1cc16e0bce0",
+                  "play": {
+                    "id": "c237d017-8715-4673-8441-2c94394574e9",
+                    "stats": {
+                      "playerName": "Terence Davis",
+                      "dateOfMoment": "2020-03-06T03:30:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612761",
+                      "teamAtMoment": "Toronto Raptors",
+                      "jerseyNumber": "0",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "2465b513-9423-4152-856d-d7dd6d22638a",
+                    "circulationCount": 1335,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "9e7f1917b5804142984e62fca7f45c5bd908cb8d9ee356ba26242ac25773089f",
+                "updatedAt": "2021-01-10T20:32:28Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "0ba342b8-8a7b-4dd3-9ae3-80f331483884",
+                "sortID": "01_01610310743312829000_0ba342b8-8a7b-4dd3-9ae3-80f331483884",
+                "seller": {
+                  "dapperID": "auth0|5f2a2f7a5f230d00380e964b",
+                  "flowAddress": "31d4fdbb3e2014a4",
+                  "username": "charming_bull_mastiffi",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5f721ce89907020068743d84",
+                  "flowAddress": "8426bf5cd846905e",
+                  "username": "WookieeCookies",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-lakers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "35.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/ede281a8-b5cf-4d17-bac0-16470f08f525/play_ede281a8-b5cf-4d17-bac0-16470f08f525_1_base_set_common_capture_",
+                  "flowSerialNumber": "57",
+                  "id": "4061789f-6115-47cc-87d4-5b7c93b5815c",
+                  "play": {
+                    "id": "ede281a8-b5cf-4d17-bac0-16470f08f525",
+                    "stats": {
+                      "playerName": "Jeff Teague",
+                      "dateOfMoment": "2020-02-06T01:00:00Z",
+                      "playCategory": "Handles",
+                      "teamAtMomentNbaId": "1610612737",
+                      "teamAtMoment": "Atlanta Hawks",
+                      "jerseyNumber": "00",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "2c4b2edb-84b2-46ed-ac8b-b4dbbbe51cd1",
+                    "circulationCount": 1000,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "5e5006dc1a105d6a6ee32d94e0805ab2490fccd2f6d51095a98eaad5829e7a06",
+                "updatedAt": "2021-01-10T20:32:23Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "6a835aaf-9608-4939-997a-5dd297415444",
+                "sortID": "01_01610310654132309000_6a835aaf-9608-4939-997a-5dd297415444",
+                "seller": {
+                  "dapperID": "google-oauth2|111319037226382626006",
+                  "flowAddress": "8a197c1c8d4dfae3",
+                  "username": "aquilo",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-pacers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|102830464116553102423",
+                  "flowAddress": "8aec07def57ce831",
+                  "username": "KickstartCards",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "11.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/19bef6b8-5844-46b4-a374-7089abd98d5f/play_19bef6b8-5844-46b4-a374-7089abd98d5f_1_base_set_common_capture_",
+                  "flowSerialNumber": "1682",
+                  "id": "52b7c6dc-c161-460c-a53b-4db3578d948e",
+                  "play": {
+                    "id": "19bef6b8-5844-46b4-a374-7089abd98d5f",
+                    "stats": {
+                      "playerName": "Anthony Davis",
+                      "dateOfMoment": "2020-10-07T01:00:00Z",
+                      "playCategory": "3 Pointer",
+                      "teamAtMomentNbaId": "1610612747",
+                      "teamAtMoment": "Los Angeles Lakers",
+                      "jerseyNumber": "3",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "2641acb8-5d88-4347-8cee-b08a4376259a",
+                    "circulationCount": 1759,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "093336fd4f26a4fae576994c18c92c87706e8a0f9a787ca49bf71dcd9d63ee2b",
+                "updatedAt": "2021-01-10T20:30:54Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "c33048a1-1b2e-4e0a-8f3d-c56aee9cb292",
+                "sortID": "01_01610310599091802000_c33048a1-1b2e-4e0a-8f3d-c56aee9cb292",
+                "seller": {
+                  "dapperID": "google-oauth2|108993050953373305918",
+                  "flowAddress": "714470c84486e852",
+                  "username": "AIRJORDAN23",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-trailblazers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|102835280872485593289",
+                  "flowAddress": "5768f714dbeb6397",
+                  "username": "pmpt74",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "70.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/841ef60e-f59d-42d8-bf26-53ff8b9824bc/play_841ef60e-f59d-42d8-bf26-53ff8b9824bc_1_base_set_common_capture_",
+                  "flowSerialNumber": "2899",
+                  "id": "e9f9f838-cb01-49fa-8a4d-17e6a206a74a",
+                  "play": {
+                    "id": "841ef60e-f59d-42d8-bf26-53ff8b9824bc",
+                    "stats": {
+                      "playerName": "LeBron James",
+                      "dateOfMoment": "2020-09-19T01:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612747",
+                      "teamAtMoment": "Los Angeles Lakers",
+                      "jerseyNumber": "23",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "4d299df7-5297-46f2-bab1-35165de259ef",
+                    "circulationCount": 2913,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "8d77ef1f173797272538e3a65e2fff6191f63a8773770eca82d28acbe5fb8bbf",
+                "updatedAt": "2021-01-10T20:29:59Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "6e00a7b8-560b-4234-97d5-e4d0dead02ef",
+                "sortID": "01_01610310576765669000_6e00a7b8-560b-4234-97d5-e4d0dead02ef",
+                "seller": {
+                  "dapperID": "auth0|5ff1fa635927b3007672aa30",
+                  "flowAddress": "34c03c598b7a8031",
+                  "username": "joco418",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5ecf44775e47b30c9184aa15",
+                  "flowAddress": "46a4d85a570eb4e2",
+                  "username": "Bull",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-76ers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "4.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/c32b29d6-48c9-4e0f-afe1-e28f712fa503/play_c32b29d6-48c9-4e0f-afe1-e28f712fa503_1_base_set_common_capture_",
+                  "flowSerialNumber": "1234",
+                  "id": "be43d0c4-dbce-4bea-aa2d-191ef9540852",
+                  "play": {
+                    "id": "c32b29d6-48c9-4e0f-afe1-e28f712fa503",
+                    "stats": {
+                      "playerName": "Darius Bazley",
+                      "dateOfMoment": "2020-08-24T20:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612760",
+                      "teamAtMoment": "Oklahoma City Thunder",
+                      "jerseyNumber": "7",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "210f0b1f-7ec1-4b14-a8f2-28cb62ae950a",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "8189c3369c2d591a90cd9010709c9e03f4c3166354ea35448c9168a77845f53c",
+                "updatedAt": "2021-01-10T20:29:36Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "63388d5c-2f6f-45a4-8eaf-a1bf75273a71",
+                "sortID": "01_01610310557333087000_63388d5c-2f6f-45a4-8eaf-a1bf75273a71",
+                "seller": {
+                  "dapperID": "auth0|5f7a27bc9907020068a1ed78",
+                  "flowAddress": "20a5289e9830b8aa",
+                  "username": "cswxg",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/03f80578-485e-48c2-982c-fc201f434791/play_03f80578-485e-48c2-982c-fc201f434791_1_base_set_common_capture_",
+                  "flowSerialNumber": "737",
+                  "id": "5972b97a-54e3-4651-9896-3ff9f8b424ef",
+                  "play": {
+                    "id": "03f80578-485e-48c2-982c-fc201f434791",
+                    "stats": {
+                      "playerName": "Markelle Fultz",
+                      "dateOfMoment": "2019-12-21T03:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612753",
+                      "teamAtMoment": "Orlando Magic",
+                      "jerseyNumber": "20",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "50f48a3b-41de-46ff-b33f-0e1db3f94278",
+                    "circulationCount": 2986,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "aa8a75710fe614ea3b5edd4a8c10da55bcbdfab1b3cfdc42bb6e110e557691f2",
+                "updatedAt": "2021-01-10T20:29:17Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "dcb95795-c244-4713-b22f-7bcadcac3139",
+                "sortID": "01_01610310539418102000_dcb95795-c244-4713-b22f-7bcadcac3139",
+                "seller": {
+                  "dapperID": "auth0|5efa222e228149001946ca6b",
+                  "flowAddress": "197a434cdeb38ea7",
+                  "username": "Spruce_Springstream",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5eec6e67594b210013669ea8",
+                  "flowAddress": "6cbb102559a9f10a",
+                  "username": "greekfreak",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-celtics.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "86.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_metallic_gold_le_rare/cf256a06-baae-4b24-8b06-f441cb0a1821/play_cf256a06-baae-4b24-8b06-f441cb0a1821_1_metallic_gold_le_rare_capture_",
+                  "flowSerialNumber": "252",
+                  "id": "2112068e-a4ac-4da5-acd9-4576d9dffc0c",
+                  "play": {
+                    "id": "cf256a06-baae-4b24-8b06-f441cb0a1821",
+                    "stats": {
+                      "playerName": "OG Anunoby",
+                      "dateOfMoment": "2019-10-27T00:00:00Z",
+                      "playCategory": "Block",
+                      "teamAtMomentNbaId": "1610612761",
+                      "teamAtMoment": "Toronto Raptors",
+                      "jerseyNumber": "3",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "12a8288a-addc-4e5c-8af7-b3ba6e5161d4",
+                    "flowName": "Metallic Gold LE",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_RARE",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "7684dc50-6edd-48b1-882f-5fa277c74343",
+                    "circulationCount": 299,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "42c6b2976dc827a46fbf28ef8b293cf9c3d92c03813cf428d08c7acd644dcc8c",
+                "updatedAt": "2021-01-10T20:28:59Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "76b3fb0a-1682-4ca5-824d-7000e1161fcb",
+                "sortID": "01_01610310523214236000_76b3fb0a-1682-4ca5-824d-7000e1161fcb",
+                "seller": {
+                  "dapperID": "auth0|5f04033519815a0019dee9bd",
+                  "flowAddress": "a3a627d47f628e9b",
+                  "username": "kai",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-abstract-4.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/a5cb5392-704c-4687-a2d5-c0f3e8e3ec6c/play_a5cb5392-704c-4687-a2d5-c0f3e8e3ec6c_1_base_set_common_capture_",
+                  "flowSerialNumber": "480",
+                  "id": "180b2750-5f30-4359-b11d-4f27f4a9967a",
+                  "play": {
+                    "id": "a5cb5392-704c-4687-a2d5-c0f3e8e3ec6c",
+                    "stats": {
+                      "playerName": "Daniel Theis",
+                      "dateOfMoment": "2020-01-17T01:00:00Z",
+                      "playCategory": "Block",
+                      "teamAtMomentNbaId": "1610612738",
+                      "teamAtMoment": "Boston Celtics",
+                      "jerseyNumber": "27",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "f1c91cae-0ef7-4c8b-907d-eefc6a041494",
+                    "circulationCount": 1927,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "1144db50ef00fd82e5394b41b4861a6be130bd2492b3fa9bf9ef89b4a4dc584e",
+                "updatedAt": "2021-01-10T20:28:43Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "b25b1eca-2922-4648-ac5c-72feb0d1ebf8",
+                "sortID": "01_01610310506973052000_b25b1eca-2922-4648-ac5c-72feb0d1ebf8",
+                "seller": {
+                  "dapperID": "auth0|5ee7c408e1832700192a4ea9",
+                  "flowAddress": "73bd6800e3c3f50f",
+                  "username": "Alex",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-wizards.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "4.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/07aa5576-e210-4ec2-81a0-c7405e65a4de/play_07aa5576-e210-4ec2-81a0-c7405e65a4de_1_base_set_common_capture_",
+                  "flowSerialNumber": "572",
+                  "id": "d546ec5f-63c0-4015-b8b0-428f33a4e501",
+                  "play": {
+                    "id": "07aa5576-e210-4ec2-81a0-c7405e65a4de",
+                    "stats": {
+                      "playerName": "Kevin Huerter",
+                      "dateOfMoment": "2020-01-09T00:30:00Z",
+                      "playCategory": "Assist",
+                      "teamAtMomentNbaId": "1610612737",
+                      "teamAtMoment": "Atlanta Hawks",
+                      "jerseyNumber": "3",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "18e1b835-027e-4ca0-ba3f-41c221693a2a",
+                    "circulationCount": 1253,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "ee893aff2c6f6412ded004e6aeb63483304da89222d913484975deb2e01581bf",
+                "updatedAt": "2021-01-10T20:28:26Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "2ea336e5-cc61-4823-aa22-5f3fba9107f7",
+                "sortID": "01_01610310476941483000_2ea336e5-cc61-4823-aa22-5f3fba9107f7",
+                "seller": {
+                  "dapperID": "auth0|5ef5410d4dfab400197dce62",
+                  "flowAddress": "181f051fe725b401",
+                  "username": "sweet_revolver",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5ecf44775e47b30c9184aa15",
+                  "flowAddress": "46a4d85a570eb4e2",
+                  "username": "Bull",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-76ers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "4.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/c32b29d6-48c9-4e0f-afe1-e28f712fa503/play_c32b29d6-48c9-4e0f-afe1-e28f712fa503_1_base_set_common_capture_",
+                  "flowSerialNumber": "1199",
+                  "id": "4c8c619a-aae3-4426-81f4-6573f74b62de",
+                  "play": {
+                    "id": "c32b29d6-48c9-4e0f-afe1-e28f712fa503",
+                    "stats": {
+                      "playerName": "Darius Bazley",
+                      "dateOfMoment": "2020-08-24T20:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612760",
+                      "teamAtMoment": "Oklahoma City Thunder",
+                      "jerseyNumber": "7",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "210f0b1f-7ec1-4b14-a8f2-28cb62ae950a",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "25fb0b5d86f977ad81f733d2b22addb4316a810a9f5e70cdfe6845a4811b4d47",
+                "updatedAt": "2021-01-10T20:27:56Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "f0f5d519-c1af-45f7-b216-04f1b6977f19",
+                "sortID": "01_01610310474207338000_f0f5d519-c1af-45f7-b216-04f1b6977f19",
+                "seller": {
+                  "dapperID": "auth0|5ee9e388922d1300191caf8d",
+                  "flowAddress": "b78a6d68098df4b7",
+                  "username": "jp784",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5fd54ad27e3d4900750c4a2f",
+                  "flowAddress": "1397a0ba5a420b64",
+                  "username": "Tommy33d",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-clippers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "25.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/b8f44af1-3464-4eb2-b69e-aed7bc2a78ac/play_b8f44af1-3464-4eb2-b69e-aed7bc2a78ac_1_base_set_common_capture_",
+                  "flowSerialNumber": "13",
+                  "id": "7fa1d8bb-5653-42bb-90ca-b0f7cc6458eb",
+                  "play": {
+                    "id": "b8f44af1-3464-4eb2-b69e-aed7bc2a78ac",
+                    "stats": {
+                      "playerName": "Deandre Ayton",
+                      "dateOfMoment": "2020-08-13T20:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612756",
+                      "teamAtMoment": "Phoenix Suns",
+                      "jerseyNumber": "22",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "a887f643-091f-42b6-a0a8-2a8645dc69e2",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "a3c2f8b3091482ea6a3a91776cfdf1087f8526aee2a81fadcf54ec6f0f1b42ed",
+                "updatedAt": "2021-01-10T20:27:54Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "49fdfc3f-1ed2-47f0-acad-d0cafb5b3699",
+                "sortID": "01_01610310472984002000_49fdfc3f-1ed2-47f0-acad-d0cafb5b3699",
+                "seller": {
+                  "dapperID": "google-oauth2|112465954077100556182",
+                  "flowAddress": "b0cae2214a20f3af",
+                  "username": "Janage11",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/fd17af2c-8f6b-4e38-ade5-86f8efd1f2af/play_fd17af2c-8f6b-4e38-ade5-86f8efd1f2af_1_base_set_common_capture_",
+                  "flowSerialNumber": "3070",
+                  "id": "67cedd59-9b04-4288-b162-83c00c523e30",
+                  "play": {
+                    "id": "fd17af2c-8f6b-4e38-ade5-86f8efd1f2af",
+                    "stats": {
+                      "playerName": "Michael Porter Jr.",
+                      "dateOfMoment": "2020-09-08T01:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612743",
+                      "teamAtMoment": "Denver Nuggets",
+                      "jerseyNumber": "1",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "2b49f3d7-5c5e-453e-a055-96360a170275",
+                    "circulationCount": 3087,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "6dc7750a73a46bf6be0b4da56c08a96128f036a31eaaf891b2f215dfec2c7a7f",
+                "updatedAt": "2021-01-10T20:27:52Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "f937ff7a-1651-485d-8150-8bef0225da07",
+                "sortID": "01_01610310472881931000_f937ff7a-1651-485d-8150-8bef0225da07",
+                "seller": {
+                  "dapperID": "auth0|5f77514dcba2f70071653678",
+                  "flowAddress": "39a54e2eecf20654",
+                  "username": "LBJ",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-bucks.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/813e4469-c150-4ded-b60f-02380ec71bc5/play_813e4469-c150-4ded-b60f-02380ec71bc5_1_base_set_common_capture_",
+                  "flowSerialNumber": "2254",
+                  "id": "f3c83b39-7a87-4fb6-9fda-efa4302581d7",
+                  "play": {
+                    "id": "813e4469-c150-4ded-b60f-02380ec71bc5",
+                    "stats": {
+                      "playerName": "Jimmy Butler",
+                      "dateOfMoment": "2020-09-02T22:30:00Z",
+                      "playCategory": "Steal",
+                      "teamAtMomentNbaId": "1610612748",
+                      "teamAtMoment": "Miami Heat",
+                      "jerseyNumber": "22",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "d00a93a3-14b4-4997-a97e-13dcf36e1312",
+                    "circulationCount": 3085,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "14f7285b5fade3f5a2990403ade4fc7f9ed9aa320e66b225fc132f76d02e83c2",
+                "updatedAt": "2021-01-10T20:27:52Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "024a4183-c60a-4beb-b7f1-23f09edc15dd",
+                "sortID": "01_01610310429080005000_024a4183-c60a-4beb-b7f1-23f09edc15dd",
+                "seller": {
+                  "dapperID": "auth0|5ff743c25dbdf5006958c351",
+                  "flowAddress": "612a29ab6ac4e5bc",
+                  "username": "Clozelle",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-thunder.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|103242464882733348316",
+                  "flowAddress": "600858faac19d236",
+                  "username": "mattytyjoe",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "6.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/eac36037-1737-45fd-a95b-1f4ea977a5d9/play_eac36037-1737-45fd-a95b-1f4ea977a5d9_1_base_set_common_capture_",
+                  "flowSerialNumber": "1217",
+                  "id": "5b1e5b8b-bdf2-4ddd-bd5a-6cb82f4bd611",
+                  "play": {
+                    "id": "eac36037-1737-45fd-a95b-1f4ea977a5d9",
+                    "stats": {
+                      "playerName": "RJ Barrett",
+                      "dateOfMoment": "2019-12-08T00:30:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612752",
+                      "teamAtMoment": "New York Knicks",
+                      "jerseyNumber": "9",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "dc3a850c-de3c-4e22-b17c-b405a8441324",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "2a675db99a27da6f83066732808d4606ba69f6fc8f53ba967289738fffd409f7",
+                "updatedAt": "2021-01-10T20:27:09Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "9f91a536-725f-4310-a017-aac0c54e8965",
+                "sortID": "01_01610310415023479000_9f91a536-725f-4310-a017-aac0c54e8965",
+                "seller": {
+                  "dapperID": "auth0|5ee82a7fe4647b0013739a43",
+                  "flowAddress": "80ebf2bd52abc517",
+                  "username": "Luigi",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-cavalliers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5ecf44775e47b30c9184aa15",
+                  "flowAddress": "46a4d85a570eb4e2",
+                  "username": "Bull",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-76ers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "4.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/c32b29d6-48c9-4e0f-afe1-e28f712fa503/play_c32b29d6-48c9-4e0f-afe1-e28f712fa503_1_base_set_common_capture_",
+                  "flowSerialNumber": "1192",
+                  "id": "aa6971ce-f898-43ae-a2bc-3cc402378b33",
+                  "play": {
+                    "id": "c32b29d6-48c9-4e0f-afe1-e28f712fa503",
+                    "stats": {
+                      "playerName": "Darius Bazley",
+                      "dateOfMoment": "2020-08-24T20:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612760",
+                      "teamAtMoment": "Oklahoma City Thunder",
+                      "jerseyNumber": "7",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "210f0b1f-7ec1-4b14-a8f2-28cb62ae950a",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "0fd0cf8df744059e18d46fd18adbb8dcda727767b48c4e3fafa35005ebccc6ee",
+                "updatedAt": "2021-01-10T20:26:55Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "77643024-0f2b-475b-8746-d4f804b1a310",
+                "sortID": "01_01610310414861354000_77643024-0f2b-475b-8746-d4f804b1a310",
+                "seller": {
+                  "dapperID": "auth0|5f090e3c7fdbf300156cc097",
+                  "flowAddress": "40e5f1cd66ed0335",
+                  "username": "nanotrees",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/d2461b42-9d9d-4202-a220-32cadf123a74/play_d2461b42-9d9d-4202-a220-32cadf123a74_1_base_set_common_capture_",
+                  "flowSerialNumber": "1723",
+                  "id": "d436ddb3-2775-4631-8dc4-bca9dc456d5d",
+                  "play": {
+                    "id": "d2461b42-9d9d-4202-a220-32cadf123a74",
+                    "stats": {
+                      "playerName": "Dwight Howard",
+                      "dateOfMoment": "2020-09-23T01:00:00Z",
+                      "playCategory": "Block",
+                      "teamAtMomentNbaId": "1610612747",
+                      "teamAtMoment": "Los Angeles Lakers",
+                      "jerseyNumber": "39",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "688fc202-723a-48e0-8de2-a17e654aa40c",
+                    "circulationCount": 2438,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "13a19217c48e510445ba21aec46b2534932f93033043cb106024899d933d6a3f",
+                "updatedAt": "2021-01-10T20:26:54Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "4f083df1-ee73-4615-ab09-efa3f724af5f",
+                "sortID": "01_01610310414779225000_4f083df1-ee73-4615-ab09-efa3f724af5f",
+                "seller": {
+                  "dapperID": "auth0|5ee6bfacc70eb000193281ba",
+                  "flowAddress": "198e08b58a561c74",
+                  "username": "Haku",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/70b1a644-e90d-484c-90d2-4b529c2dd1e1/play_70b1a644-e90d-484c-90d2-4b529c2dd1e1_1_base_set_common_capture_",
+                  "flowSerialNumber": "1218",
+                  "id": "1977c7ca-7f54-42db-a11a-b89cf0e90f2e",
+                  "play": {
+                    "id": "70b1a644-e90d-484c-90d2-4b529c2dd1e1",
+                    "stats": {
+                      "playerName": "Jerami Grant",
+                      "dateOfMoment": "2020-09-25T01:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612743",
+                      "teamAtMoment": "Denver Nuggets",
+                      "jerseyNumber": "9",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "b6be1fdc-27d1-4b93-803d-64fe28537c2c",
+                    "circulationCount": 2438,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "3583889770789ac0294fcf32ac603a649939d9049d339c3b3be7ca95870bcd5a",
+                "updatedAt": "2021-01-10T20:26:54Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "ca4fc801-bdb8-4110-9e6b-d7cd4b922bc5",
+                "sortID": "01_01610310413001353000_ca4fc801-bdb8-4110-9e6b-d7cd4b922bc5",
+                "seller": {
+                  "dapperID": "google-oauth2|110246550019684097277",
+                  "flowAddress": "1ff3ec0ed9eebdc8",
+                  "username": "Dookielove",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-celtics.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "3.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/621c2ac0-a968-40a8-8736-89e340f4b58c/play_621c2ac0-a968-40a8-8736-89e340f4b58c_1_base_set_common_capture_",
+                  "flowSerialNumber": "1649",
+                  "id": "0586a56f-8a7c-4d63-8369-0fc22bf06cf4",
+                  "play": {
+                    "id": "621c2ac0-a968-40a8-8736-89e340f4b58c",
+                    "stats": {
+                      "playerName": "Rajon Rondo",
+                      "dateOfMoment": "2020-09-25T01:00:00Z",
+                      "playCategory": "Assist",
+                      "teamAtMomentNbaId": "1610612747",
+                      "teamAtMoment": "Los Angeles Lakers",
+                      "jerseyNumber": "9",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "255cd224-6282-4c4b-9018-7c5749be7f17",
+                    "circulationCount": 2077,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "70c27eb35c5abac7f11f4f72b19d7477a9a42efb144f92d714fcdb6c5da307c3",
+                "updatedAt": "2021-01-10T20:26:53Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "3f9226ef-ccb6-4b07-a23d-a75614924785",
+                "sortID": "01_01610310398609161000_3f9226ef-ccb6-4b07-a23d-a75614924785",
+                "seller": {
+                  "dapperID": "google-oauth2|109007606333128973291",
+                  "flowAddress": "6fa920bb39ee747b",
+                  "username": "inborn_drever195",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|103535198767357933818",
+                  "flowAddress": "51432083b6e13aab",
+                  "username": "extra_large_raspberry6905",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "15.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/ed7f7aa7-eafa-4a4f-ad65-190127940941/play_ed7f7aa7-eafa-4a4f-ad65-190127940941_1_base_set_common_capture_",
+                  "flowSerialNumber": "1158",
+                  "id": "288cc755-c00b-4c99-8520-acbcf03c5d06",
+                  "play": {
+                    "id": "ed7f7aa7-eafa-4a4f-ad65-190127940941",
+                    "stats": {
+                      "playerName": "Zion Williamson",
+                      "dateOfMoment": "2020-08-09T19:00:00Z",
+                      "playCategory": "Handles",
+                      "teamAtMomentNbaId": "1610612740",
+                      "teamAtMoment": "New Orleans Pelicans",
+                      "jerseyNumber": "1",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "0eb53697-f3ca-4402-a067-e085ce7ea6f5",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "ba859a61d55eeb314b230ff6437eb0aec7d12045a35dabe0c99225beb5b0e13f",
+                "updatedAt": "2021-01-10T20:26:38Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "a09720a7-08a5-4928-9c5d-64ece90e2de2",
+                "sortID": "01_01610310378513452000_a09720a7-08a5-4928-9c5d-64ece90e2de2",
+                "seller": {
+                  "dapperID": "google-oauth2|108993050953373305918",
+                  "flowAddress": "714470c84486e852",
+                  "username": "AIRJORDAN23",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-trailblazers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|103242464882733348316",
+                  "flowAddress": "600858faac19d236",
+                  "username": "mattytyjoe",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "6.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/eac36037-1737-45fd-a95b-1f4ea977a5d9/play_eac36037-1737-45fd-a95b-1f4ea977a5d9_1_base_set_common_capture_",
+                  "flowSerialNumber": "1258",
+                  "id": "d5c265db-6e21-4fde-bbdc-c8e378652135",
+                  "play": {
+                    "id": "eac36037-1737-45fd-a95b-1f4ea977a5d9",
+                    "stats": {
+                      "playerName": "RJ Barrett",
+                      "dateOfMoment": "2019-12-08T00:30:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612752",
+                      "teamAtMoment": "New York Knicks",
+                      "jerseyNumber": "9",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "dc3a850c-de3c-4e22-b17c-b405a8441324",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "8ee5d3fab57354b2195ec64844152f5bd7700903952cd2fbd6472f9390d78b35",
+                "updatedAt": "2021-01-10T20:26:18Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "3dced7bf-a45f-44e0-829e-35a9e3fa9383",
+                "sortID": "01_01610310369748339000_3dced7bf-a45f-44e0-829e-35a9e3fa9383",
+                "seller": {
+                  "dapperID": "auth0|5efce7132281490019783ddb",
+                  "flowAddress": "b0d5f8829ce86281",
+                  "username": "slipery",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-hornets.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/dcf97c17-1828-41a2-857d-c959e7ee6f40/play_dcf97c17-1828-41a2-857d-c959e7ee6f40_1_base_set_common_capture_",
+                  "flowSerialNumber": "1129",
+                  "id": "806feaf9-352a-44a1-ba46-9a5237556bbc",
+                  "play": {
+                    "id": "dcf97c17-1828-41a2-857d-c959e7ee6f40",
+                    "stats": {
+                      "playerName": "Daniel Theis",
+                      "dateOfMoment": "2020-09-15T22:30:00Z",
+                      "playCategory": "Block",
+                      "teamAtMomentNbaId": "1610612738",
+                      "teamAtMoment": "Boston Celtics",
+                      "jerseyNumber": "27",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "14f21497-f628-4a3f-a7fd-4e399cdf9511",
+                    "circulationCount": 2304,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "439fa16e42ed0beecb180112761cfd73adcc554b3d78cf211ad6c0e168d69cda",
+                "updatedAt": "2021-01-10T20:26:09Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "cee84b0c-c2ca-4ffb-a1f0-5a198339666a",
+                "sortID": "01_01610310367922502000_cee84b0c-c2ca-4ffb-a1f0-5a198339666a",
+                "seller": {
+                  "dapperID": "auth0|5ed93f8107930800131f983e",
+                  "flowAddress": "fb27292863ba22e8",
+                  "username": "GiantHeartBaller",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-hawks.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9/play_797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9_1_base_set_common_capture_",
+                  "flowSerialNumber": "1705",
+                  "id": "c5ce8d6e-ffdd-4762-b723-93829b6907fc",
+                  "play": {
+                    "id": "797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9",
+                    "stats": {
+                      "playerName": "Goran Dragi\u0107 ",
+                      "dateOfMoment": "2020-10-11T23:30:00Z",
+                      "playCategory": "Layup",
+                      "teamAtMomentNbaId": "1610612748",
+                      "teamAtMoment": "Miami Heat",
+                      "jerseyNumber": "7",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "b2b5cbba-85eb-4555-8034-3e2a0509226a",
+                    "circulationCount": 1715,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "a2154dc3a07d0d3ad99d51e2691bb2d4e447113d17fb643e5860d687e1272848",
+                "updatedAt": "2021-01-10T20:26:07Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "ec176e36-8577-4bcf-8ce2-1c2c8639317a",
+                "sortID": "01_01610310346731531000_ec176e36-8577-4bcf-8ce2-1c2c8639317a",
+                "seller": {
+                  "dapperID": "google-oauth2|116555618111714099269",
+                  "flowAddress": "cdf5c4fe5bc23c7f",
+                  "username": "Silverdragon",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-bucks.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/ebd68015-8b97-4493-8a53-7fc6f3b6af3f/play_ebd68015-8b97-4493-8a53-7fc6f3b6af3f_1_base_set_common_capture_",
+                  "flowSerialNumber": "981",
+                  "id": "17e8bab6-bada-46a8-807a-1def3d2a3bac",
+                  "play": {
+                    "id": "ebd68015-8b97-4493-8a53-7fc6f3b6af3f",
+                    "stats": {
+                      "playerName": "Danny Green",
+                      "dateOfMoment": "2020-10-03T01:00:00Z",
+                      "playCategory": "Assist",
+                      "teamAtMomentNbaId": "1610612747",
+                      "teamAtMoment": "Los Angeles Lakers",
+                      "jerseyNumber": "14",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "dc10666f-8b70-45b0-870b-50c59669030a",
+                    "circulationCount": 1284,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "6a73b737ebdcfc31599ff0792d213cad5423e49a5fb66319c952a799c1443899",
+                "updatedAt": "2021-01-10T20:25:46Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "441ffaac-f1b0-4c3c-a806-183825ab333d",
+                "sortID": "01_01610310324490539000_441ffaac-f1b0-4c3c-a806-183825ab333d",
+                "seller": {
+                  "dapperID": "google-oauth2|112465954077100556182",
+                  "flowAddress": "b0cae2214a20f3af",
+                  "username": "Janage11",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9/play_797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9_1_base_set_common_capture_",
+                  "flowSerialNumber": "1697",
+                  "id": "9658925a-d4e0-4937-868a-dfc1bee7d259",
+                  "play": {
+                    "id": "797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9",
+                    "stats": {
+                      "playerName": "Goran Dragi\u0107 ",
+                      "dateOfMoment": "2020-10-11T23:30:00Z",
+                      "playCategory": "Layup",
+                      "teamAtMomentNbaId": "1610612748",
+                      "teamAtMoment": "Miami Heat",
+                      "jerseyNumber": "7",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "b2b5cbba-85eb-4555-8034-3e2a0509226a",
+                    "circulationCount": 1715,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "dd9a067d6e980679d97224cc50aefecb0160342d0c53324e6c5639eb80a318f9",
+                "updatedAt": "2021-01-10T20:25:24Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "0a9de880-b1a3-4d64-8e6c-2900f7414ee3",
+                "sortID": "01_01610310322593473000_0a9de880-b1a3-4d64-8e6c-2900f7414ee3",
+                "seller": {
+                  "dapperID": "auth0|5f61bba6d5a03600767f6b4f",
+                  "flowAddress": "41c7809ca03034bf",
+                  "username": "HeatFan",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-trailblazers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9/play_797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9_1_base_set_common_capture_",
+                  "flowSerialNumber": "1635",
+                  "id": "14813147-ad21-42dc-98a2-20c30f487085",
+                  "play": {
+                    "id": "797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9",
+                    "stats": {
+                      "playerName": "Goran Dragi\u0107 ",
+                      "dateOfMoment": "2020-10-11T23:30:00Z",
+                      "playCategory": "Layup",
+                      "teamAtMomentNbaId": "1610612748",
+                      "teamAtMoment": "Miami Heat",
+                      "jerseyNumber": "7",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "b2b5cbba-85eb-4555-8034-3e2a0509226a",
+                    "circulationCount": 1715,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "fbd3e9e5dc84ea84bea4caeade4a73cda75780e59996dd04afd6d9503c7ab7e0",
+                "updatedAt": "2021-01-10T20:25:22Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "5d9bda0f-8a7b-463b-83c6-63197546b7d2",
+                "sortID": "01_01610310301902044000_5d9bda0f-8a7b-463b-83c6-63197546b7d2",
+                "seller": {
+                  "dapperID": "auth0|5f3af43ee05aff0037dc667d",
+                  "flowAddress": "7509d5bcb1a4fb15",
+                  "username": "ZionETH",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-bulls.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "3.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/7e5ac838-7886-4374-aa6e-6c58736139a0/play_7e5ac838-7886-4374-aa6e-6c58736139a0_1_base_set_common_capture_",
+                  "flowSerialNumber": "988",
+                  "id": "0975486a-4481-41e0-be33-0096a91ab918",
+                  "play": {
+                    "id": "7e5ac838-7886-4374-aa6e-6c58736139a0",
+                    "stats": {
+                      "playerName": "Jae Crowder",
+                      "dateOfMoment": "2020-10-04T23:30:00Z",
+                      "playCategory": "Assist",
+                      "teamAtMomentNbaId": "1610612748",
+                      "teamAtMoment": "Miami Heat",
+                      "jerseyNumber": "99",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "579deef7-6eac-4b75-946f-588cc3bc4a06",
+                    "circulationCount": 1240,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "cc58ef29ef3675af8e90bf39984fa1ee67a95c9ef76a7284fc00ef67d0909370",
+                "updatedAt": "2021-01-10T20:25:01Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "d5f6dd2a-9bd7-41ea-a102-023e1643e346",
+                "sortID": "01_01610310293938803000_d5f6dd2a-9bd7-41ea-a102-023e1643e346",
+                "seller": {
+                  "dapperID": "auth0|5ff8db535dbdf500696143c9",
+                  "flowAddress": "458a25e8551227f8",
+                  "username": "Kpoptart",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|102830464116553102423",
+                  "flowAddress": "8aec07def57ce831",
+                  "username": "KickstartCards",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "10.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/19bef6b8-5844-46b4-a374-7089abd98d5f/play_19bef6b8-5844-46b4-a374-7089abd98d5f_1_base_set_common_capture_",
+                  "flowSerialNumber": "1724",
+                  "id": "e2fe2548-c5b0-4c46-87f8-9b08ba4c99c2",
+                  "play": {
+                    "id": "19bef6b8-5844-46b4-a374-7089abd98d5f",
+                    "stats": {
+                      "playerName": "Anthony Davis",
+                      "dateOfMoment": "2020-10-07T01:00:00Z",
+                      "playCategory": "3 Pointer",
+                      "teamAtMomentNbaId": "1610612747",
+                      "teamAtMoment": "Los Angeles Lakers",
+                      "jerseyNumber": "3",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "2641acb8-5d88-4347-8cee-b08a4376259a",
+                    "circulationCount": 1759,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "ec0b59768b6d127ff6f1f574b8d6e839145cb5ceedf92adba86333f3985ab66a",
+                "updatedAt": "2021-01-10T20:24:53Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "4a2d2ed9-194e-43fe-9d1f-c6f704a3160d",
+                "sortID": "01_01610310293875787000_4a2d2ed9-194e-43fe-9d1f-c6f704a3160d",
+                "seller": {
+                  "dapperID": "auth0|5ff85fc3dba0e30069d0b997",
+                  "flowAddress": "98818b1ca9c58ed5",
+                  "username": "mixed_possum3417",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9/play_797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9_1_base_set_common_capture_",
+                  "flowSerialNumber": "1609",
+                  "id": "9681833f-c626-43d6-a56b-0df15990a681",
+                  "play": {
+                    "id": "797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9",
+                    "stats": {
+                      "playerName": "Goran Dragi\u0107 ",
+                      "dateOfMoment": "2020-10-11T23:30:00Z",
+                      "playCategory": "Layup",
+                      "teamAtMomentNbaId": "1610612748",
+                      "teamAtMoment": "Miami Heat",
+                      "jerseyNumber": "7",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "b2b5cbba-85eb-4555-8034-3e2a0509226a",
+                    "circulationCount": 1715,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "19d6241292f23aa3f6f01ffd107a93bfe4c4d5d2d43a92ee33b8f0736d243f2f",
+                "updatedAt": "2021-01-10T20:24:53Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "a2944da2-8314-421f-896b-db940d5c1402",
+                "sortID": "01_01610310273391960000_a2944da2-8314-421f-896b-db940d5c1402",
+                "seller": {
+                  "dapperID": "google-oauth2|112465954077100556182",
+                  "flowAddress": "b0cae2214a20f3af",
+                  "username": "Janage11",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5f77e28c944d310068568d67",
+                  "flowAddress": "df087b558e2cc227",
+                  "username": "FlightReacts",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-celtics.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/9fd8ba34-ceb2-436d-bccd-01b9f4031932/play_9fd8ba34-ceb2-436d-bccd-01b9f4031932_1_base_set_common_capture_",
+                  "flowSerialNumber": "1244",
+                  "id": "91450b9c-ad8e-4c21-92cf-ed16a2429f9c",
+                  "play": {
+                    "id": "9fd8ba34-ceb2-436d-bccd-01b9f4031932",
+                    "stats": {
+                      "playerName": "DeMar DeRozan",
+                      "dateOfMoment": "2020-02-07T03:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612759",
+                      "teamAtMoment": "San Antonio Spurs",
+                      "jerseyNumber": "10",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "ba9faabd-5d86-4566-a5d3-51481454be85",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "c9dffa6bf54cdf90429ce82e461734bb4509f602a007ec53deda983872a55bb1",
+                "updatedAt": "2021-01-10T20:24:33Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "37d6f833-3c4f-49a4-b9c7-c07792a48c68",
+                "sortID": "01_01610310248436196000_37d6f833-3c4f-49a4-b9c7-c07792a48c68",
+                "seller": {
+                  "dapperID": "google-oauth2|112465954077100556182",
+                  "flowAddress": "b0cae2214a20f3af",
+                  "username": "Janage11",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5ffa15d4d11f09006894420e",
+                  "flowAddress": "b8257c5006941d61",
+                  "username": "MoonSuit",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-abstract-3.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/2b32ab68-c81b-458d-827d-e5df7ed7acfc/play_2b32ab68-c81b-458d-827d-e5df7ed7acfc_1_base_set_common_capture_",
+                  "flowSerialNumber": "1278",
+                  "id": "214d333e-974a-4ebc-8e67-54af08c9b201",
+                  "play": {
+                    "id": "2b32ab68-c81b-458d-827d-e5df7ed7acfc",
+                    "stats": {
+                      "playerName": "Markelle Fultz",
+                      "dateOfMoment": "2020-08-02T22:00:00Z",
+                      "playCategory": "3 Pointer",
+                      "teamAtMomentNbaId": "1610612753",
+                      "teamAtMoment": "Orlando Magic",
+                      "jerseyNumber": "20",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "a90b9106-22e1-4f8f-a120-e010df6b4956",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "729bf965ebdf5dad38b5b171425d0309d6dd56bee3dff2999176ca7eb9c6420b",
+                "updatedAt": "2021-01-10T20:24:08Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "880004f4-3f84-4365-9567-97a1e7fcbb5d",
+                "sortID": "01_01610310244415085000_880004f4-3f84-4365-9567-97a1e7fcbb5d",
+                "seller": {
+                  "dapperID": "google-oauth2|112465954077100556182",
+                  "flowAddress": "b0cae2214a20f3af",
+                  "username": "Janage11",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|102830464116553102423",
+                  "flowAddress": "8aec07def57ce831",
+                  "username": "KickstartCards",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "4.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/29a35f9e-323e-43a2-a4e6-bccce704de07/play_29a35f9e-323e-43a2-a4e6-bccce704de07_1_base_set_common_capture_",
+                  "flowSerialNumber": "2300",
+                  "id": "f7741b50-3515-4d06-b74d-8ab1606af874",
+                  "play": {
+                    "id": "29a35f9e-323e-43a2-a4e6-bccce704de07",
+                    "stats": {
+                      "playerName": "Jaylen Brown",
+                      "dateOfMoment": "2020-09-20T00:30:00Z",
+                      "playCategory": "Steal",
+                      "teamAtMomentNbaId": "1610612738",
+                      "teamAtMoment": "Boston Celtics",
+                      "jerseyNumber": "7",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "2b9532af-d468-4db1-af1b-72284c082a35",
+                    "circulationCount": 2304,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "6a255cffb5092e50d230a69561285bcfa2ddc77fe2a43ac6c6ee2df29a29cc67",
+                "updatedAt": "2021-01-10T20:24:04Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "013e2387-3c9a-4c99-82a6-4190e22bdf01",
+                "sortID": "01_01610310217902466000_013e2387-3c9a-4c99-82a6-4190e22bdf01",
+                "seller": {
+                  "dapperID": "auth0|5fd7fc536d9513006fddb585",
+                  "flowAddress": "804965812349045b",
+                  "username": "well_to_do_blood_oranges",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-nuggets.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/635d8526-b1d2-430a-9b92-937394aa59c8/play_635d8526-b1d2-430a-9b92-937394aa59c8_1_base_set_common_capture_",
+                  "flowSerialNumber": "854",
+                  "id": "3ab632c7-fc77-4ed0-9a5e-a2aaa7371406",
+                  "play": {
+                    "id": "635d8526-b1d2-430a-9b92-937394aa59c8",
+                    "stats": {
+                      "playerName": "Devonte' Graham",
+                      "dateOfMoment": "2019-12-28T00:00:00Z",
+                      "playCategory": "Layup",
+                      "teamAtMomentNbaId": "1610612766",
+                      "teamAtMoment": "Charlotte Hornets",
+                      "jerseyNumber": "4",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "b16384fb-c4fa-473e-a3fc-2bf38fff08a4",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "11818fad4eba0e53eaf9dc28f7ed806804494da3f95306a501bccecec08f4ce0",
+                "updatedAt": "2021-01-10T20:23:37Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "de442231-bcee-44cc-981f-541a986f9620",
+                "sortID": "01_01610310212938651000_de442231-bcee-44cc-981f-541a986f9620",
+                "seller": {
+                  "dapperID": "auth0|5fd7fc536d9513006fddb585",
+                  "flowAddress": "804965812349045b",
+                  "username": "well_to_do_blood_oranges",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-nuggets.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|116002814193779797558",
+                  "flowAddress": "8f1cb9d0f9ee9bda",
+                  "username": "Memphis",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-magic.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "3.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/37edf037-8f27-4b82-92db-b6e2db4d3bb0/play_37edf037-8f27-4b82-92db-b6e2db4d3bb0_1_base_set_common_capture_",
+                  "flowSerialNumber": "461",
+                  "id": "65a565a3-74c4-4e14-8721-32c143c0e95a",
+                  "play": {
+                    "id": "37edf037-8f27-4b82-92db-b6e2db4d3bb0",
+                    "stats": {
+                      "playerName": "Marcus Smart",
+                      "dateOfMoment": "2019-11-21T03:00:00Z",
+                      "playCategory": "Steal",
+                      "teamAtMomentNbaId": "1610612738",
+                      "teamAtMoment": "Boston Celtics",
+                      "jerseyNumber": "36",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "8bbc28d1-5001-4891-97ff-2f6340bb71bf",
+                    "circulationCount": 1527,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "af5576c128f31e18cee55a0c3038554e1629bfc03855333a081d33eef465b82c",
+                "updatedAt": "2021-01-10T20:23:32Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "5318ee72-a185-4381-96a8-86248d850f3d",
+                "sortID": "01_01610310197453861000_5318ee72-a185-4381-96a8-86248d850f3d",
+                "seller": {
+                  "dapperID": "auth0|5f60fc9869bfca006faf0fd2",
+                  "flowAddress": "4f79749bbd953312",
+                  "username": "kakip",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/8dc7459a-285e-4be4-aa7f-3180504c2662/play_8dc7459a-285e-4be4-aa7f-3180504c2662_1_base_set_common_capture_",
+                  "flowSerialNumber": "1023",
+                  "id": "43acd1fa-3530-43cf-9b09-7bbc571d35a2",
+                  "play": {
+                    "id": "8dc7459a-285e-4be4-aa7f-3180504c2662",
+                    "stats": {
+                      "playerName": "Marcus Smart",
+                      "dateOfMoment": "2020-01-19T00:00:00Z",
+                      "playCategory": "3 Pointer",
+                      "teamAtMomentNbaId": "1610612738",
+                      "teamAtMoment": "Boston Celtics",
+                      "jerseyNumber": "36",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "4c1c09da-59d4-4f86-a836-0ecec6ce8e1c",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "8b1d0b00527ce5b82452873cac4feed4fa4db33bd0cae41a172cf38bcd5229be",
+                "updatedAt": "2021-01-10T20:23:17Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "0adcae14-6bac-4ace-8a20-84b4faa61bd2",
+                "sortID": "01_01610310146347257000_0adcae14-6bac-4ace-8a20-84b4faa61bd2",
+                "seller": {
+                  "dapperID": "auth0|5f06583293ce6e001969c827",
+                  "flowAddress": "f310726d7942162a",
+                  "username": "SectionChamp_99",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-bucks.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/a2f7eaeb-51e2-423c-bb21-f4e201a9e171/play_a2f7eaeb-51e2-423c-bb21-f4e201a9e171_1_base_set_common_capture_",
+                  "flowSerialNumber": "619",
+                  "id": "e543d3de-367a-4e5c-b066-51cc5e46d2eb",
+                  "play": {
+                    "id": "a2f7eaeb-51e2-423c-bb21-f4e201a9e171",
+                    "stats": {
+                      "playerName": "Dennis Smith Jr.",
+                      "dateOfMoment": "2020-02-27T00:00:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612752",
+                      "teamAtMoment": "New York Knicks",
+                      "jerseyNumber": "5",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "9e212471-51ad-4e57-98c5-7d6c2148e5eb",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "c73b65f2932346bf9e99c973e17871205cbde4e34f393554e865868a170178de",
+                "updatedAt": "2021-01-10T20:22:26Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "3e2ae361-395d-451d-b3e7-ef8050b02bd6",
+                "sortID": "01_01610310141447146000_3e2ae361-395d-451d-b3e7-ef8050b02bd6",
+                "seller": {
+                  "dapperID": "auth0|5efce7132281490019783ddb",
+                  "flowAddress": "b0d5f8829ce86281",
+                  "username": "slipery",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-hornets.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5ffb5b48c5387a006e939d54",
+                  "flowAddress": "66fb3dad1a807a1f",
+                  "username": "GeecheeBoi",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-magic.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "8.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_with_the_strip_rare/4121cf7f-cd12-4c3c-a5bf-414478213c19/play_4121cf7f-cd12-4c3c-a5bf-414478213c19_1_with_the_strip_rare_capture_",
+                  "flowSerialNumber": "346",
+                  "id": "9e2cfff8-36ee-4768-ad8f-e663565d1510",
+                  "play": {
+                    "id": "4121cf7f-cd12-4c3c-a5bf-414478213c19",
+                    "stats": {
+                      "playerName": "Ish Smith",
+                      "dateOfMoment": "2020-02-24T00:00:00Z",
+                      "playCategory": "Steal",
+                      "teamAtMomentNbaId": "1610612764",
+                      "teamAtMoment": "Washington Wizards",
+                      "jerseyNumber": "14",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "4e166b27-3099-44c3-9de3-cac2b9751692",
+                    "flowName": "With the Strip",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_RARE",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "cc33a901-a0a6-4038-a54f-02bcd07142fd",
+                    "circulationCount": 499,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "c0e59e0b560a6386d814e255c31c9dfb37ea7113407cbafcc82eff94517eeac5",
+                "updatedAt": "2021-01-10T20:22:21Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "49ed173e-72fd-41a3-9f42-2663539695b3",
+                "sortID": "01_01610310122698949000_49ed173e-72fd-41a3-9f42-2663539695b3",
+                "seller": {
+                  "dapperID": "google-oauth2|113230337147957573536",
+                  "flowAddress": "ada5c65153875952",
+                  "username": "MotoMike2112",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-hawks.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "auth0|5f721ce89907020068743d84",
+                  "flowAddress": "8426bf5cd846905e",
+                  "username": "WookieeCookies",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-lakers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "4.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/7fa85231-d92d-4df1-a631-2e85b48a4c11/play_7fa85231-d92d-4df1-a631-2e85b48a4c11_1_base_set_common_capture_",
+                  "flowSerialNumber": "1131",
+                  "id": "46badb53-d66e-44d6-911b-517358928457",
+                  "play": {
+                    "id": "7fa85231-d92d-4df1-a631-2e85b48a4c11",
+                    "stats": {
+                      "playerName": "Joel Embiid",
+                      "dateOfMoment": "2020-02-21T01:00:00Z",
+                      "playCategory": "Layup",
+                      "teamAtMomentNbaId": "1610612755",
+                      "teamAtMoment": "Philadelphia 76ers",
+                      "jerseyNumber": "21",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "95a67646-5427-4a4a-af62-d0ee6926f17d",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "51f61a6f69a970aeba913e1c2805ee538e4436f891e733bb90e39967f75776c9",
+                "updatedAt": "2021-01-10T20:22:02Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "952f7327-d44b-4908-ba60-8305f1a4a9eb",
+                "sortID": "01_01610310112682682000_952f7327-d44b-4908-ba60-8305f1a4a9eb",
+                "seller": {
+                  "dapperID": "auth0|5f1f8de07105f9003d9faa08",
+                  "flowAddress": "3795d42c0fc3a373",
+                  "username": "steve",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-ck-5.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|116002814193779797558",
+                  "flowAddress": "8f1cb9d0f9ee9bda",
+                  "username": "Memphis",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-magic.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/ff3f472f-335e-41a1-9557-7c369793b9f0/play_ff3f472f-335e-41a1-9557-7c369793b9f0_1_base_set_common_capture_",
+                  "flowSerialNumber": "1446",
+                  "id": "6fb4d922-b14a-40b2-976b-51c51ade09f9",
+                  "play": {
+                    "id": "ff3f472f-335e-41a1-9557-7c369793b9f0",
+                    "stats": {
+                      "playerName": "Hassan Whiteside",
+                      "dateOfMoment": "2020-01-21T03:00:00Z",
+                      "playCategory": "Block",
+                      "teamAtMomentNbaId": "1610612757",
+                      "teamAtMoment": "Portland Trail Blazers",
+                      "jerseyNumber": "21",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "a09c7aad-861b-402e-86f5-d44ad2193054",
+                    "circulationCount": 3344,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "d37b8bdce885bb0aa1ccd89da96679961496da1fdbd90916b4027c05b90a9885",
+                "updatedAt": "2021-01-10T20:21:52Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "69ceb16a-a7b2-4b0d-afef-3993be8577a9",
+                "sortID": "01_01610310112316941000_69ceb16a-a7b2-4b0d-afef-3993be8577a9",
+                "seller": {
+                  "dapperID": "auth0|5f77e28c944d310068568d67",
+                  "flowAddress": "df087b558e2cc227",
+                  "username": "FlightReacts",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-celtics.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "6.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/3aa9de64-2ff4-4abc-82cd-03d0a449a0dc/play_3aa9de64-2ff4-4abc-82cd-03d0a449a0dc_1_base_set_common_capture_",
+                  "flowSerialNumber": "1117",
+                  "id": "45756420-094e-4e12-93fb-6d60cebab2f8",
+                  "play": {
+                    "id": "3aa9de64-2ff4-4abc-82cd-03d0a449a0dc",
+                    "stats": {
+                      "playerName": "Kristaps Porzi\u0146\u0123is",
+                      "dateOfMoment": "2019-12-22T20:30:00Z",
+                      "playCategory": "3 Pointer",
+                      "teamAtMomentNbaId": "1610612742",
+                      "teamAtMoment": "Dallas Mavericks",
+                      "jerseyNumber": "6",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "045f4a18-db1a-459d-bb8d-c1b5bca6718e",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "b0bb3b0faf257b3354b116e98249ebbbbaba0b0b7951ae515ece63da56ebd695",
+                "updatedAt": "2021-01-10T20:21:52Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "10714376-6613-4775-b3c7-3b594ffb79b6",
+                "sortID": "01_01610310112196521000_10714376-6613-4775-b3c7-3b594ffb79b6",
+                "seller": {
+                  "dapperID": "auth0|5fe3f1eb197152006f7a500f",
+                  "flowAddress": "a2d28a409cb8ea8e",
+                  "username": "SRoseee",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "2.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/e6f3075a-e252-44e3-b612-6d96ab973848/play_e6f3075a-e252-44e3-b612-6d96ab973848_1_base_set_common_capture_",
+                  "flowSerialNumber": "668",
+                  "id": "bfcc67f2-40e5-43d5-a9ff-c00d16277447",
+                  "play": {
+                    "id": "e6f3075a-e252-44e3-b612-6d96ab973848",
+                    "stats": {
+                      "playerName": "T.J. McConnell",
+                      "dateOfMoment": "2020-02-02T00:00:00Z",
+                      "playCategory": "Assist",
+                      "teamAtMomentNbaId": "1610612754",
+                      "teamAtMoment": "Indiana Pacers",
+                      "jerseyNumber": "9",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "d33c446b-b6a8-4655-a1b7-55c7af235422",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "e9da68671f3f296daef11e2238939fd37fec9b6df737c995f665f459e9be2957",
+                "updatedAt": "2021-01-10T20:21:52Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "ec3402c1-11f0-4cc4-af37-9816c1cb95c9",
+                "sortID": "01_01610310046985029000_ec3402c1-11f0-4cc4-af37-9816c1cb95c9",
+                "seller": {
+                  "dapperID": "google-oauth2|108153767823481420904",
+                  "flowAddress": "a0d08033d922aa9a",
+                  "username": "gremlin_1820",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-nba-clippers.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "3.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/621c2ac0-a968-40a8-8736-89e340f4b58c/play_621c2ac0-a968-40a8-8736-89e340f4b58c_1_base_set_common_capture_",
+                  "flowSerialNumber": "1602",
+                  "id": "d6f7faaa-f3c9-4f7f-b16a-643d8d48a7fa",
+                  "play": {
+                    "id": "621c2ac0-a968-40a8-8736-89e340f4b58c",
+                    "stats": {
+                      "playerName": "Rajon Rondo",
+                      "dateOfMoment": "2020-09-25T01:00:00Z",
+                      "playCategory": "Assist",
+                      "teamAtMomentNbaId": "1610612747",
+                      "teamAtMoment": "Los Angeles Lakers",
+                      "jerseyNumber": "9",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "255cd224-6282-4c4b-9018-7c5749be7f17",
+                    "circulationCount": 2077,
+                    "flowRetired": true,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "ad3a2901a2084855eb7713fb1d03a57198db4a4a9ace05e9f4a2568a9f1823ab",
+                "updatedAt": "2021-01-10T20:20:46Z",
+                "__typename": "MarketplaceTransaction"
+              },
+              {
+                "id": "2acef9b3-0a6a-47bb-adfe-3907d6be7981",
+                "sortID": "01_01610310046578602000_2acef9b3-0a6a-47bb-adfe-3907d6be7981",
+                "seller": {
+                  "dapperID": "auth0|5f2d577e76cf8f0039b6d8ff",
+                  "flowAddress": "1309faaa49fbdc43",
+                  "username": "LukaLegend",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "buyer": {
+                  "dapperID": "google-oauth2|115456787988913624791",
+                  "flowAddress": "75b4c03e80e42b71",
+                  "username": "hubbersnaks",
+                  "profileImageUrl": "https://storage.googleapis.com/dapper-profile-icons/avatar-default.png",
+                  "__typename": "UserPublicInfo"
+                },
+                "price": "1.00000000",
+                "moment": {
+                  "assetPathPrefix": "https://assets.nbatopshot.com/editions/1_base_set_common/1882fa1d-a9f3-4ac5-99c9-b03480afe87e/play_1882fa1d-a9f3-4ac5-99c9-b03480afe87e_1_base_set_common_capture_",
+                  "flowSerialNumber": "1168",
+                  "id": "82c2b4d2-8754-4f41-a852-cb414da567f6",
+                  "play": {
+                    "id": "1882fa1d-a9f3-4ac5-99c9-b03480afe87e",
+                    "stats": {
+                      "playerName": "Marcus Morris",
+                      "dateOfMoment": "2020-02-10T00:30:00Z",
+                      "playCategory": "Dunk",
+                      "teamAtMomentNbaId": "1610612746",
+                      "teamAtMoment": "Los Angeles Clippers",
+                      "jerseyNumber": "31",
+                      "__typename": "PlayStats"
+                    },
+                    "__typename": "Play"
+                  },
+                  "set": {
+                    "id": "7b797690-5b53-45a7-b972-bd2d5152654a",
+                    "flowName": "Base Set",
+                    "flowSeriesNumber": 1,
+                    "setVisualId": "SET_VISUAL_COMMON",
+                    "__typename": "Set"
+                  },
+                  "setPlay": {
+                    "ID": "e0206137-95cd-470b-b1e5-282e5c442e1c",
+                    "circulationCount": 1300,
+                    "flowRetired": false,
+                    "__typename": "MintedSetPlay"
+                  },
+                  "__typename": "MintedMoment"
+                },
+                "txHash": "e6f894158b6de12d49e4a15445b4e1d4d2d85737a7382eb3e891e51005e59442",
+                "updatedAt": "2021-01-10T20:20:46Z",
+                "__typename": "MarketplaceTransaction"
+              }
+            ],
+            "__typename": "MarketplaceTransactions"
+          },
+          "__typename": "SearchSummary"
+        },
+        "__typename": "MarketplaceTransactionSearchSummary"
+      },
+      "__typename": "MarketplaceTransactionSearchSummaryResponse"
+    }
+  }
+}
