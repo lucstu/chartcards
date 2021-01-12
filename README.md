@@ -24,4 +24,4 @@ To graph a function, simply call the graph function with the desired moment ID (
 ![LeBron Cosmic Sale Graph](./images/Figure_1.png)
 
 <br />
-This graph provides an insight into a [Caption](https://example.com) that has absolutely skyrocketed in value, setting the Top Shot sale record at $26,543.
+This graph provides an insight into a [github](https://github.com) that has absolutely skyrocketed in value, setting the Top Shot sale record at $26,543.
