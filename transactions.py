@@ -31,7 +31,7 @@ def recurseResult(cursor):
         seller_id = tx['seller']['username']
         buyer_id = tx['buyer']['username']
         price = tx['price']
-        moment_id = tx['moment']['play']['id']
+        moment_id = tx['moment']['set']['id'] + '+' + tx['moment']['play']['id']
         time = tx['updatedAt']
         tx_hash = tx['txHash']
 
