@@ -18,6 +18,8 @@ Use transactions.py to scrape a spreadsheet with all transactions ever done thro
 Functions in this section are very much a work in progress at the moment. However, they provide basic functionality that is very useful for visualizing prices which is not available through the NBA Top Shot site. There are also functions for trying to find notable percentage gains over time periods which could inform of market trends.   
 
 ![LeBron Cosmic Sale Graph](./images/Figure_1.png)
+
+<br />
 This graph provides an insight into a moment that has absolutely skyrocketed in value, setting the Top Shot sale record at $26,543
 
 
