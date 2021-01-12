@@ -1,6 +1,8 @@
 # chartcards
 Map market data across crypto sports cards.
 
+Disclaimer: This project has no association with NBA Top Shot and is used for educational purposes only.
+
 ## NBA Top Shot
 
 ### Scraping
