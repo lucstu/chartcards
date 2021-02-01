@@ -1,5 +1,5 @@
 # chartcards
-Map market data across crypto sports cards.
+Map market data across crypto sports NFTs (cards/moments/etc).
 
 Disclaimer: This project has no association with NBA Top Shot and is used for educational purposes only.
 
